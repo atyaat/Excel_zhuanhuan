@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "materials_stance_convert", "WindowsFormsApp1\materials_stance_convert.csproj", "{8638BEF0-FFA3-404F-8472-47DE75C72431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8638BEF0-FFA3-404F-8472-47DE75C72431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8638BEF0-FFA3-404F-8472-47DE75C72431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8638BEF0-FFA3-404F-8472-47DE75C72431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8638BEF0-FFA3-404F-8472-47DE75C72431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D533B55-F035-4319-8084-473272B416E6}
+	EndGlobalSection
+EndGlobal
